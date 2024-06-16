@@ -1,0 +1,7 @@
+{
+  "name": "Multi-Purpose Hinge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
