@@ -47,8 +47,10 @@ import '@ionic/react/css/display.css';
 /* Theme variables */
 import './theme/variables.css';
 
+// Initialize Ionic React
 setupIonicReact();
 
+// Main App component
 const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
@@ -65,6 +67,7 @@ const App: React.FC = () => (
   </IonApp>
 );
 
+// Render the App component to the root element
 const rootElement = document.getElementById('root');
 if (rootElement) {
   const root = ReactDOM.createRoot(rootElement);

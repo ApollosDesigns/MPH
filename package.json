@@ -57,7 +57,7 @@
     "rollup": "^4.18.0",
     "terser": "^5.4.0",
     "typescript": "^5.1.6",
-    "vite": "^5.3.1",
+    "vite": "5.3.3",
     "vitest": "^0.34.6"
   },
   "description": "An Ionic project"
